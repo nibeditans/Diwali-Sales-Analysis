@@ -5,7 +5,7 @@ This repository contains an analysis of sales data from Diwali season shopping, 
 The Diwali Sales Analysis aims to uncover key sales trends and customer preferences during the Diwali season, a time of high sales volume in India. By exploring this data, we aim to gain insights that could inform better sales strategies and targeted marketing during peak shopping periods.
 
 ## Project Structure
-- `Diwali Sales Analysis.ipynb`: Main Jupyter Notebook file that contains all data loading, cleaning, analysis, and visualization steps.
+- [`Diwali Sales Analysis.ipynb`](https://github.com/nibeditans/Diwali-Sales-Analysis/blob/main/Diwali%20Sales%20Analysis.ipynb): Main Jupyter Notebook file that contains all data loading, cleaning, analysis, and visualization steps.
 - `README.md`: Project overview and instructions.
 
 ## Usage

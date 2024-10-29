@@ -14,7 +14,7 @@ import seaborn as sns
 # In[2]:
 
 
-df = pd.read_csv(r"C:\Users\nibed\Downloads\Diwali Sales Data.csv", encoding= 'unicode_escape')
+df = pd.read_csv("Diwali Sales Data.csv", encoding= 'unicode_escape')
 df
 
 

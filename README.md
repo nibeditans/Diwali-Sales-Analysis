@@ -1,4 +1,4 @@
-# Diwali-Sales-Analysis
+# Diwali Sales Analysis
 This repository contains an analysis of sales data from Diwali season shopping, providing insights into customer purchasing behavior and trends. The analysis is implemented using Python, with Jupyter Notebook as the primary tool for interactive data exploration and visualization.
 
 You can check out the complete article on this this Project: [Diwali Sales Analysis](https://nsworldinfo.medium.com/diwali-sales-analysis-b224a4eeaf7d)

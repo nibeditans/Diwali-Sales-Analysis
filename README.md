@@ -27,6 +27,8 @@ The analysis revealed several notable patterns, including:
 - **Customer demographics**: Age groups, genders, or regions that spend the most.
 - **Spending trends**: Identified peak sales periods and high-volume products.
 
+Wanna explored more Projects and Fun Programs? Check out the [Data Analytics Projects Collection](https://github.com/nibeditans/A-Few-Data-Analytics-Projects) Page.
+
 ## Contributing
 Contributions are welcome! Fork this repository and open a pull request for any suggestions or improvements.
 
